@@ -33,19 +33,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EFCore.WebAPI",
-              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\EFCore.WebAPI.csproj",
-              "RelativeDocumentMoniker": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\EFCore.WebAPI.csproj",
-              "RelativeToolTip": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T18:28:24.754Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
@@ -59,13 +46,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCore.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\EFCore.WebAPI.csproj",
+              "RelativeDocumentMoniker": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\EFCore.WebAPI.csproj",
+              "RelativeToolTip": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T18:28:24.754Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HeroiContext.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Data\\HeroiContext.cs",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\Data\\HeroiContext.cs",
               "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Data\\HeroiContext.cs",
               "RelativeToolTip": "EFCore.WebAPI\\Data\\HeroiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T18:26:59.336Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "EFCore.WebAPI\\Model\\Arma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T18:22:45.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T18:22:45.22Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "EFCore.WebAPI\\Model\\Batalha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T18:22:32.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T18:22:32.035Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "EFCore.WebAPI\\Model\\Heroi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T18:22:10.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T18:22:10.912Z"
             }
           ]
         }
