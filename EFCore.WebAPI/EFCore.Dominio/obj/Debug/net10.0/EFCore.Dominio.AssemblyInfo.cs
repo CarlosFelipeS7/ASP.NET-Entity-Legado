@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.WebAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c8a923e17a600057a823b9c44b87679a2b8d95")]
-[assembly: System.Reflection.AssemblyProductAttribute("EFCore.WebAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EFCore.WebAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("EFCore.Dominio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EFCore.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,4 +1,4 @@
-﻿namespace EFCore.WebAPI.Model
+﻿namespace EFCore.Dominio
 {
     public class Heroi
     {

@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="EFCore.Dominio/EFCore.Dominio.csproj" Id="9f2320e6-695c-41a6-b732-7d7621d96518" />
+  <Project Path="EFCore.Repo/EFCore.Repo.csproj" Id="8d2d78dd-47aa-4f61-863b-b50b51f7c16b" />
   <Project Path="EFCore.WebAPI/EFCore.WebAPI.csproj" />
 </Solution>

@@ -1,7 +1,7 @@
 ﻿using EFCore.WebAPI.Model;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCore.WebAPI.Data
+namespace EFCore.Repo
 {
     public class HeroiContext : DbContext //vai encapsular todas as entidades
     {
